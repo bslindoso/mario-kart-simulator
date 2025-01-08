@@ -2,7 +2,7 @@
 
 <p>Um simulador de corridas inspirado no Mario Kart, desenvolvido em JavaScript com Node.js. Este projeto permite simular corridas entre personagens icônicos do universo Mario. Ideal para estudos de lógica e diversão no desenvolvimento! 🚗💨</p>
 
-<p><strong>Feito durante meus estudos de node.Js</strong></p>
+<p><strong>Feito durante meus estudos de node.Js</strong> - <a href="https://dio.me/"><img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="dio logo" width="40"></a></p>
 
   <table>
         <tr>
